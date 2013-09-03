@@ -3,7 +3,7 @@
 
 require 'rubygems'
 SPEC = Gem::Specification.new do |s|
-  s.name = "mumboe-soap4r"
+  s.name = "soap4r"
   s.version = "1.5.8.6"
   s.date = "2013-02-21"
   s.author = "Scott Diedrick (modifier: swalterd)"
